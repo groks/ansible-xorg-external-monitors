@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: groks
+  description: extra modeline options for configuring external monitor resolutions
+  license: BSD
+  min_ansible_version: 1.3
+
+  platforms:
+    - name: Fedora
+      versions:
+        - all
+
+  categories:
+    - system
+
+dependencies: []
